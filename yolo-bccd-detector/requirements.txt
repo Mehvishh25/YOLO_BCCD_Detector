@@ -1,0 +1,10 @@
+torch
+torchvision
+ultralytics
+streamlit
+opencv-python
+numpy
+pandas
+matplotlib
+lxml
+albumentations
